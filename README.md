@@ -1,4 +1,5 @@
 # AndSes6Ass1
+
 a: Menu are additional option that are displayed by clicking menu button on the screen.
 It displays those options that are not directly visible on the main UI of an application 
 
